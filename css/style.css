@@ -1,0 +1,11 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+#loading, #results {
+  display: none;
+}
+/*# sourceMappingURL=style.css.map */
